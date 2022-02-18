@@ -23,7 +23,7 @@ list, set, and tuple.
 '''
 ```
 
-## deque ()
+## deque
 
 **双端队列**，[官方文档](https://docs.python.org/3/library/collections.html#collections.deque)介绍
 > list-like container with fast appends and pops on either end
