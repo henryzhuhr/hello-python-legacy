@@ -1,0 +1,18 @@
+.F                                                                       [100%]
+=================================== FAILURES ===================================
+________________________ TestClassDemoInstance.test_two ________________________
+
+self = <test_class_demo.TestClassDemoInstance object at 0x105ea2670>
+
+    def test_two(self):
+        print(self.value)
+>       assert self.value == 1
+E       assert 0 == 1
+E        +  where 0 = <test_class_demo.TestClassDemoInstance object at 0x105ea2670>.value
+
+test_class_demo.py:12: AssertionError
+----------------------------- Captured stdout call -----------------------------
+0
+=========================== short test summary info ============================
+FAILED test_class_demo.py::TestClassDemoInstance::test_two - assert 0 == 1
+1 failed, 1 passed in 0.01s

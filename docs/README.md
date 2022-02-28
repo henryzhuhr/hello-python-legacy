@@ -6,3 +6,4 @@
 
 ## 3rd party(Python 第三方库)
 - [tqdm](./3rdparty/tqdm/tqdm.md)
+- [pytest](./3rdparty/pytest/pytest.md)
