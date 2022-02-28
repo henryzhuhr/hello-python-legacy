@@ -11,3 +11,6 @@ dist
 
 # python
 *.pyc
+
+# pytest
+.pytest_cache
