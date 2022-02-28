@@ -1,2 +1,13 @@
-*.pyc
+
+# OS
 .DS_Store
+*/.DS_Store
+
+# vuepress
+node_modules
+.temp
+.cache
+dist
+
+# python
+*.pyc
